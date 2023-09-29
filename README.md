@@ -12,7 +12,7 @@ I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Some
 
 I am still relatively new to GitHub, but I will slowly put those projects on and make them fully open-source.
 
-I’m currently learning Python, Embedded C and Verilog. Also, I am learning some essential website development and collaborating with my friends to build a website for the Fleming Society. I will leave a link once the domain and host server are ready. 
+I’m currently learning Python, Embedded C and Verilog. Also, I am learning some essential website development and collaborating with my friends to build a [website](https://www.ee.ucl.ac.uk/flemingsociety/) for the Fleming Society. 
 
 How to reach me:
 - Via email (preferred) junzhe_chen@outlook.com
