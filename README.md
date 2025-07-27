@@ -1,18 +1,16 @@
-Hi, I’m Junzhe Chen
+Hi, I’m Junzhe Chen. I can also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
 
-I'm an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the [UCL Fleming Society](https://github.com/Fleming-Society), which runs some engaging EEE project workshops and hackathons.
+I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [UCL Fleming Society](https://github.com/Fleming-Society).
 
-I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
+I am currently an Analog Circuit designer. I have worked on TSMC 55nm and Global Foundry 12nm FinFET. Sometimes, I do some HiFi speaker and amplifier project with [Audio First Design](https://audiofirstdesigns.co.uk/). At the same time, I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit design
+
+Some of my projects (updates coming soon!)
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
   - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
 - [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
 - [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
 - Cross Bias Referenced Class G Amplifier
 - MATLAB Instrument Control Program that reads and analyse data directly from the scope
-
-I am still relatively new to GitHub, but I will slowly put those projects on and make them fully open-source.
-
-I’m currently learning Python, Embedded C and Verilog. Also, I am learning some essential website development and collaborating with my friends to build a [website](https://www.ee.ucl.ac.uk/flemingsociety/) for the Fleming Society. 
 
 How to reach me:
 - Via email (preferred) junzhe_chen@outlook.com
