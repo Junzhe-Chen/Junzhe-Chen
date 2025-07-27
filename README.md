@@ -2,7 +2,7 @@ Hi, I’m **Junzhe Chen**. I can also known as chén jǜn-zhé (Romanised Chines
 
 I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [**UCL Fleming Society**](https://github.com/Fleming-Society).
 
-I am currently an Analog Circuit designer. I have worked on _TSMC 55nm_ and _Global Foundry 12nm FinFET_. Sometimes, I do some HiFi speaker and amplifier project with [**Audio First Design**](https://audiofirstdesigns.co.uk/). At the same time, I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit design
+I am currently an Analog Circuit designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/). I have worked on _TSMC 55nm_ and _Global Foundry 12nm FinFET_. Sometimes, I do some HiFi speaker and amplifier project with [**Audio First Design**](https://audiofirstdesigns.co.uk/). At the same time, I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit design
 
 Some of my projects (updates coming soon!)
 - **Fleming Society**
