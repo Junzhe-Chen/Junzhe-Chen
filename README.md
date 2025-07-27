@@ -1,6 +1,6 @@
 # Hi, I’m **Junzhe Chen**. 
 
-I can also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
+I am also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
 
 I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [**UCL Fleming Society**](https://github.com/Fleming-Society).
 
