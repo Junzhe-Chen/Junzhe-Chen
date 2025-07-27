@@ -23,3 +23,4 @@ I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit
 ## How to reach me:
 - **Via email (preferred):** junzhe_chen@outlook.com
 - **My LinkedIn page:** [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
+- **Diary (Telegram)** [t.me](https://t.me/meinkunstleben)
