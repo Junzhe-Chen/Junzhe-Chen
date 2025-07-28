@@ -16,7 +16,7 @@ I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit
   - [Open Day Robot - Arduino codes](https://github.com/Fleming-Society/Open-Day-Robots)
   - [Breadboard robot - Original](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone) and [Updated](https://github.com/Fleming-Society/Breadboard-Robot)
 - **Personal**
-  - (upcoming) tube preamp (_as an engineer, I hate this idea; but some "audiophiles" like that, I will see how well I can "engineer" that thing_)
+  - (upcoming) tube preamp (_as an engineer, I hate this idea; but some "audiophiles" like that, I will see how well I can "engineer" it_)
   - LM3886-based Amplifier
   - LM1875-based Amplifier
   - Discrete Class-AB Amplifier
