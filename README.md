@@ -16,6 +16,11 @@ I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit
   - [Open Day Robot - Arduino codes](https://github.com/Fleming-Society/Open-Day-Robots)
   - [Breadboard robot - Original](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone) and [Updated](https://github.com/Fleming-Society/Breadboard-Robot)
 - **Personal**
+  - (upcoming) tube preamp (_as an engineer, I hate this idea; but some "audiophiles" like that, I will see how well I can "engineer" that thing_)
+  - LM3886-based Amplifier
+  - LM1875-based Amplifier
+  - Discrete Class-AB Amplifier
+  - (upcoming) desktop speaker & amplifier (alongside with Audio First Design)
   - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
     - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
   - [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
