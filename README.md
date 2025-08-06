@@ -29,3 +29,13 @@ I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit
 - **Via email (preferred):** junzhe_chen@outlook.com
 - **My LinkedIn page:** [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
 - **Diary (Telegram)** [t.me](https://t.me/meinkunstleben)
+
+## Photo collections
+
+ My journey on audio amplifier design, at 7th Floor, Robert Building, University College London
+
+  ![audio_amplifier](https://github.com/user-attachments/assets/b1b4339e-9a10-48c8-b190-1d10f912151c)
+
+Some speakers I made alongside with Audio First Design
+
+  ![speakers](https://github.com/user-attachments/assets/78a22080-a787-4f41-b97b-88db0457732a)
