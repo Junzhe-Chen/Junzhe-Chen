@@ -32,6 +32,11 @@ I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit
 
 ## Photo collections
 
+Quote:
+
+![meh_digital](https://github.com/user-attachments/assets/b26f4556-e282-4074-82ce-56adb518de91)
+
+
  My journey on audio amplifier design, at 7th Floor, Robert Building, University College London
 
   ![audio_amplifier](https://github.com/user-attachments/assets/b1b4339e-9a10-48c8-b190-1d10f912151c)
