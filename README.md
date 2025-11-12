@@ -2,11 +2,11 @@
 
 I am also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
 
-I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [**UCL Fleming Society**](https://github.com/Fleming-Society).
+I do Analog IC related research at University of Bristol. I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [**UCL Fleming Society**](https://github.com/Fleming-Society).
 
-I am currently an Analog Circuit designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/). I have worked on _TSMC 55nm_ and _Global Foundry 12nm FinFET_. Sometimes, I do some HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
+I do some part-time circuit design job with [**BioHarv**](https://bioharv.io/). I worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/) and [**Cirrus Logic**](https://www.cirrus.com/). I have worked on _TSMC 180BCD_, _TSMC 55nm_, and _Global Foundry 12nm FinFET_. Sometimes, I do some HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
 
-I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit design
+I am looking for funded PhD research on Analog / Mixed-signal Integrated Circuit design in UK/EU/US
 
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
