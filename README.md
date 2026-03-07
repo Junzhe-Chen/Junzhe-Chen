@@ -8,6 +8,8 @@ I worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.int
 
 _**I am looking for internships and Research Assistant roles from March 2026 to September 2026**_
 
+My [CV](https://github.com/user-attachments/files/25814676/CV_junzhe_chen.pdf)
+
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
   - [Project X 2025 - Mood card](https://github.com/Fleming-Society/Mood-Credit-Card)  
@@ -44,3 +46,4 @@ Quote:
 Some speakers I made alongside with Audio First Design
 
   ![speakers](https://github.com/user-attachments/assets/78a22080-a787-4f41-b97b-88db0457732a)
+
