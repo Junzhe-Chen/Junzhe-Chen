@@ -8,7 +8,7 @@ I worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.int
 
 _**I am looking for internships and Research Assistant roles from March 2026 to September 2026**_
 
-My [CV](https://github.com/user-attachments/files/25814676/CV_junzhe_chen.pdf)
+My [CV](https://github.com/user-attachments/files/25823957/CV_junzhe_chen.pdf)
 
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
@@ -30,7 +30,6 @@ My [CV](https://github.com/user-attachments/files/25814676/CV_junzhe_chen.pdf)
 ## How to reach me:
 - **Via email (preferred):** junzhe_chen@outlook.com
 - **My LinkedIn page:** [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
-- **Diary (Telegram)** [t.me](https://t.me/meinkunstleben)
 
 ## Photo collections
 
