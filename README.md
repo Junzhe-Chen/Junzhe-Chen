@@ -6,9 +6,8 @@ I am currently pursuing a PhD in Analog/Mixed Signal IC design for Edge Computat
 
 I worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/) and [**Cirrus Logic**](https://www.cirrus.com/). I have worked on _TSMC 180BCD_, _TSMC 65nm_, _TSMC 55nm_, and _Global Foundry 12nm FinFET_. I had **two tape-out** experiences on tsmc180 and tsmcN65 processes. on both Analog Mixed-Signal and Digital flow. Sometimes, I do some HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
 
-_**I am looking for internships and Research Assistant roles from March 2026 to September 2026**_
+My [CV]([CV_junzhe_chen__academia_.pdf](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__academia_.pdf))
 
-My [CV](https://github.com/user-attachments/files/25823957/CV_junzhe_chen.pdf)
 
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
