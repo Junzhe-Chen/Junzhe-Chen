@@ -1,6 +1,6 @@
-Also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
+## Introduction
 
-PhD student at University of Bristol Microelectronics and Microsystems (2026-present). BEng at UCL Electronics and Electrical Engineering (2022-2025). served as President (2024) and Head of Projects (2025) at [**UCL Fleming Society**](https://github.com/Fleming-Society).
+PhD student at University of Bristol Microelectronics and Microsystems (2026-present). BEng at UCL Electronics and Electrical Engineering (2022-2025). President (2024) and Head of Projects (2025) at [**UCL Fleming Society**](https://github.com/Fleming-Society).
 
 Worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/) and [**Cirrus Logic**](https://www.cirrus.com/). PDK experience includes _TSMC 180BCD_, _TSMC 65nm_, _TSMC 55nm_, and _Global Foundry 12nm FinFET_. **Two tape-out** experiences on tsmc180 and tsmcN65.
 
