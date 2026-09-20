@@ -1,10 +1,10 @@
-# Hi, I’m **Junzhe Chen**. 
+Also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
 
-I am also known as chén jǜn-zhé (Romanised Chinese) or JC (Initials)
+PhD student at University of Bristol Microelectronics and Microsystems (2026-present). BEng at UCL Electronics and Electrical Engineering (2022-2025). served as President (2024) and Head of Projects (2025) at [**UCL Fleming Society**](https://github.com/Fleming-Society).
 
-I am currently pursuing a PhD in Analog/Mixed Signal IC design for Edge Computation. I graduated from UCL BEng Electronics and Electrical Engineering with First Class Honours (Rank 5/173). I served as the President and Head of Projects at [**UCL Fleming Society**](https://github.com/Fleming-Society).
+Worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/) and [**Cirrus Logic**](https://www.cirrus.com/). PDK experience includes _TSMC 180BCD_, _TSMC 65nm_, _TSMC 55nm_, and _Global Foundry 12nm FinFET_. **Two tape-out** experiences on tsmc180 and tsmcN65.
 
-I worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intrinsicsemi.com/) and [**Cirrus Logic**](https://www.cirrus.com/). I have worked on _TSMC 180BCD_, _TSMC 65nm_, _TSMC 55nm_, and _Global Foundry 12nm FinFET_. I had **two tape-out** experiences on tsmc180 and tsmcN65 processes. on both Analog Mixed-Signal and Digital flow. Sometimes, I do some HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
+HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
 
 My [CV](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__academia_.pdf)
 
@@ -17,13 +17,10 @@ My [CV](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__acade
   - [Open Day Robot - Arduino codes](https://github.com/Fleming-Society/Open-Day-Robots)
   - [Breadboard robot - Original](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone) and [Updated](https://github.com/Fleming-Society/Breadboard-Robot)
 - **Personal**
-  - (upcoming) tube preamp (_as an engineer, I hate this idea; but some "audiophiles" like that, I will see how well I can "engineer" it_)
   - LM3886-based Amplifier
   - LM1875-based Amplifier
   - Discrete Class-AB Amplifier
-  - (upcoming) desktop speaker & amplifier (alongside with Audio First Design)
   - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
-    - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
   - [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
 
 ## How to reach me:
