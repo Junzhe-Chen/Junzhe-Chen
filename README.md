@@ -6,11 +6,9 @@ Worked as Analog IC designer at [**IntrinSic Semiconductors**](https://www.intri
 
 HiFi speaker and amplifier projects with [**Audio First Design**](https://audiofirstdesigns.co.uk/). 
 
-My [CV](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__academia_.pdf)
+My [papers](https://github.com/Junzhe-Chen/my-papers), [presentations](https://github.com/Junzhe-Chen/my-presentations) and [CV](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__academia_.pdf)
 
-My [papers](https://github.com/Junzhe-Chen/my-presentations)
-
-My [presentations](https://github.com/Junzhe-Chen/my-presentations)
+Find me via [E-mail](junzhe_chen@outlook.com) and [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
 
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
@@ -25,10 +23,6 @@ My [presentations](https://github.com/Junzhe-Chen/my-presentations)
   - Discrete Class-AB Amplifier
   - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
   - [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
-
-## How to reach me:
-- **Via email (preferred):** junzhe_chen@outlook.com
-- **My LinkedIn page:** [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
 
 ## Photo collections
 
