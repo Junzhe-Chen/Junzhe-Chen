@@ -8,6 +8,9 @@ HiFi speaker and amplifier projects with [**Audio First Design**](https://audiof
 
 My [CV](https://github.com/user-attachments/files/29609293/CV_junzhe_chen__academia_.pdf)
 
+My [papers](https://github.com/Junzhe-Chen/my-presentations)
+
+My [presentations](https://github.com/Junzhe-Chen/my-presentations)
 
 ## Selected Projects (updates coming soon!)
 - **Fleming Society**
